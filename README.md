@@ -1,2 +1,2 @@
-# swapping-2-num
+# sum of digit
 Developed by harshini
